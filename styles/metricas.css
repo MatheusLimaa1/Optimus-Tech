@@ -1,0 +1,26 @@
+.metricas {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 3rem;
+    padding: 0 8rem;
+    align-items: center;
+}
+
+.metricas__conteudo {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.metricas__conteudo__titulo-1 {
+    color: var(--vermelho);
+    font-size: 3.75rem;
+    font-weight: 600;
+    padding: 1rem;
+}
+
+.metricas__conteudo__titulo-2 {
+    color: var(--preto);
+    font-size: 1.12rem;
+    font-weight: 500;
+}
