@@ -7,4 +7,7 @@
 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+ ![image](https://github.com/MatheusLimaa1/Optimus-Tech/assets/135172635/6d4d643e-4b27-4657-8252-aec3ff350460)
+
+
 
